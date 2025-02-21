@@ -6,7 +6,7 @@ In this application, a user can create a list of potential candidates for employ
 
 ## Installation
 
-The application is deployed at the following website:
+The application is deployed at the following website: https://candidatesearchapp.netlify.app/
 
 To run the program locally, run the commands "npm i" to install dependencies and "npm run dev" to run the program as a vite application
 
